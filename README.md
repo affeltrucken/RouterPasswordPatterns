@@ -7,7 +7,7 @@ Guide for reading passwords patterns:
 
 These can be combined, for example:
 
-?ld?ld?ld?ld?ld?ld?ld?ld
+```?ld?ld?ld?ld?ld?ld?ld?ld```
 
 for lowercase or digit for each character.
 
