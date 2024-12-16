@@ -15,7 +15,7 @@ All characters in curly brackets in ROUTER-NAME column
 indicate where the unique string for each router is.
 
 For example: ```Tele2_F4812B```
-Would be:    ```Tele2_{XXXXXX}```
+would be:    ```Tele2_{XXXXXX}```
 
 | BRAND | WLAN-ROUTER-NAME | WLAN-PASSWORD-PATTERN | LENGTH | COMMENT | # OF HASHES |
 |---|---|---|---|---|---|
