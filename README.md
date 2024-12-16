@@ -1,9 +1,9 @@
 Guide for reading passwords patterns:
-?l - Lowercase letter (a-z)
-?u - Uppercase letter (A-Z)
-?d - Digit (0-9)
-?s - Special character (e.g., !, @, #, etc.)
-?a - Any alphanumeric character (lowercase, uppercase, digit, special)
+- ?l - Lowercase letter (a-z)
+- ?u - Uppercase letter (A-Z)
+- ?d - Digit (0-9)
+- ?s - Special character (e.g., !, @, #, etc.)
+- ?a - Any alphanumeric character (lowercase, uppercase, digit, special)
 
 These can be combined, for example:
 
