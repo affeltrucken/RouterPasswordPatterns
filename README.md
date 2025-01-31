@@ -26,4 +26,4 @@ would be:    ```Tele2_{XXXXXX}```
 | Telia | Telia-{XXXXXX} | ?du?du?du?du?du?du?du?du?du?du | 10 | ~110 days | 3 656 158 440 062 976 |
 | Bredband 2 | Bredband2-{XXXX} | ?du?du?du?du?du?du?du?du?du?du?du?du?du?du | 14 | 85,700 years | 1 028 071 702 528 482 304 |
 | Telia | TeliaGateway{XX-XX-XX-XX-XX-XX} | ?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d?(A-F)d | 10 | Each char is uppercase A-F, or a digit, 33.5 days to crack | 1 099 511 627 776 |
-| Zyxel | Zyxel_XXXX | ?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud | 13 | 6 092 487 152 778 days to crack | 200 028 540 000 000 000 000 000 |
+| Zyxel | Zyxel_XXXX | ?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud?lud | 13 | 16,691,745,624 years | 200 028 540 000 000 000 000 000 |
